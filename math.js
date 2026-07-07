@@ -11,3 +11,6 @@ function isEven(n) {
 function multiply(a, b) {
   return a * b;
 }
+function isOdd(n) {
+  return n % 2 !== 0;
+}
