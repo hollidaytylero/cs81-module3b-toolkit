@@ -1,3 +1,3 @@
-double(5)
-
-
+function double(n) {
+  return n * 2;
+  
