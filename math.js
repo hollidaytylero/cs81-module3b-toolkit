@@ -1,3 +1,3 @@
-double(n)
-square(n)
+double(5)
+
 
