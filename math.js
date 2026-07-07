@@ -1,2 +1,3 @@
 double(n)
+square(n)
 
